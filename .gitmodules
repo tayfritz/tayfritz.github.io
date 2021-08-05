@@ -1,0 +1,3 @@
+[submodule "projects/hamtool/projects/hamtool/ham"]
+	path = projects/hamtool/projects/hamtool/ham
+	url = git@github.com:tayfritz/ham.git
