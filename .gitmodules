@@ -1,0 +1,3 @@
+[submodule "projects/ham"]
+	path = projects/ham
+	url = https://github.com/tayfritz/ham
