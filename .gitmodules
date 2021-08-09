@@ -1,3 +1,0 @@
-[submodule "projects/ham"]
-	path = projects/ham
-	url = git@github.com:tayfritz/ham.git
